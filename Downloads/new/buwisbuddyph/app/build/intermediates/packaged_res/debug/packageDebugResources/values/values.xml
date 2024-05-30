@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user_type_array">
+        <item>Freelancer</item>
+        <item>Accountant</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="default_border_color">#000000</color>
+    <color name="gray">#888</color>
+    <color name="home_color">#79a471</color>
+    <color name="missing">#FFD50707</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#D50707</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="annual_income_tax">Annual Income Tax</string>
+    <string name="app_name">BuwisBuddyPH</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="back_button">back button</string>
+    <string name="best_tax_method">Best Taxation Method: %s</string>
+    <string name="birth_date">BIRTH DATE</string>
+    <string name="burger_menu">burger menu</string>
+    <string name="calculate">Calculate</string>
+    <string name="calendar_icon">calendar icon</string>
+    <string name="camera_icon">camera icon</string>
+    <string name="comment_button">comment button</string>
+    <string name="contribution_format">PHP %.2f</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="create_budget">Create Budget</string>
+    <string name="create_new_budget">Create New Budget</string>
+    <string name="default_user">Juan Doe</string>
+    <string name="default_web_client_id" translatable="false">280638373683-goss68ki93sahm8omdo5hjknhg71ie2s.apps.googleusercontent.com</string>
+    <string name="description">Description</string>
+    <string name="document_list">Document List</string>
+    <string name="downvote">downvote</string>
+    <string name="edit">EDIT</string>
+    <string name="email">Email</string>
+    <string name="email_hint">EMAIL\n</string>
+    <string name="enter">ENTER</string>
+    <string name="enter_budget">ENTER BUDGET</string>
+    <string name="enter_expense">Enter Expense</string>
+    <string name="enter_expense_label">Enter Expense Label</string>
+    <string name="first_name">FIRST NAME</string>
+    <string name="flat_income_tax">8% Flat Rate</string>
+    <string name="forgotPassword">Forgot Password?</string>
+    <string name="forum_icon">forum icon</string>
+    <string name="forward"><![CDATA[->]]></string>
+    <string name="gcm_defaultSenderId" translatable="false">280638373683</string>
+    <string name="gender">Gender</string>
+    <string name="google_api_key" translatable="false">AIzaSyBKeM7jqBs6Jd25u4EWZuZC9L6i5J9a17A</string>
+    <string name="google_app_id" translatable="false">1:280638373683:android:65b1de0c26b9164828c846</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBKeM7jqBs6Jd25u4EWZuZC9L6i5J9a17A</string>
+    <string name="google_storage_bucket" translatable="false">buwisbuddyph.appspot.com</string>
+    <string name="graduated_income_tax">Graduated Income Tax Rates</string>
+    <string name="guides">Guides</string>
+    <string name="hamburger_icon">hamburger icon</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_icon">home icon</string>
+    <string name="in_app_purchases">In-App Purchases</string>
+    <string name="juan_dela_cruz">Juan Dela Cruz</string>
+    <string name="last_name">LAST NAME</string>
+    <string name="loading">Loading…</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">Logout</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis cursus sit amet mauris eu suscipit. In posuere laoreet massa vitae vestibulum. Nulla lorem mi, blandit vitae quam non, fermentum suscipit nunc. Vestibulum bibendum dapibus interdum. Praesent et tempor tortor,</string>
+    <string name="lorem_short">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis cursus sit amet mauris eu</string>
+    <string name="messages">Messages</string>
+    <string name="messages_icon">messages icon</string>
+    <string name="monthly_income">Monthly Income</string>
+    <string name="monthly_income_tax">Monthly Income Tax</string>
+    <string name="my_profile">My Profile</string>
+    <string name="name">NAME</string>
+    <string name="number">Number</string>
+    <string name="password_hint">PASSWORD</string>
+    <string name="philhealth">PhilHealth</string>
+    <string name="post">post</string>
+    <string name="post_content">Content</string>
+    <string name="post_title">post title</string>
+    <string name="professional_help">Professional Help</string>
+    <string name="profile">Profile</string>
+    <string name="profile_image">profile image</string>
+    <string name="project_id" translatable="false">buwisbuddyph</string>
+    <string name="quareterly_income_tax">Quareterly Income Tax</string>
+    <string name="rating">*****</string>
+    <string name="remaining_budget">Remaining Budget</string>
+    <string name="return_to_previous">return</string>
+    <string name="returns">Return</string>
+    <string name="search">Search</string>
+    <string name="search_button">search button</string>
+    <string name="search_forum">search forum</string>
+    <string name="send_button">send button</string>
+    <string name="settings">Settings</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="sss">SSS Contribution</string>
+    <string name="tax_calculator">Tax Calculator</string>
+    <string name="tax_format">PHP %.2f</string>
+    <string name="tin">TIN</string>
+    <string name="title">Title</string>
+    <string name="to">To:</string>
+    <string name="upvote">upvote</string>
+    <string name="user_name">USERNAME</string>
+    <style name="Theme.BuwisBuddyPH" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

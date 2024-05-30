@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">280638373683-goss68ki93sahm8omdo5hjknhg71ie2s.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">280638373683</string>
+    <string name="google_api_key" translatable="false">AIzaSyBKeM7jqBs6Jd25u4EWZuZC9L6i5J9a17A</string>
+    <string name="google_app_id" translatable="false">1:280638373683:android:65b1de0c26b9164828c846</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBKeM7jqBs6Jd25u4EWZuZC9L6i5J9a17A</string>
+    <string name="google_storage_bucket" translatable="false">buwisbuddyph.appspot.com</string>
+    <string name="project_id" translatable="false">buwisbuddyph</string>
+</resources>

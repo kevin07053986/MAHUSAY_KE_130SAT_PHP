@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/fragment_home.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/nav_header.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/fragment_messages.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/fragment_messages.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/accountants_list_item.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/accountants_list_item.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/new_item_message.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/new_item_message.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/activity_home.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/new_create_message.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/new_create_message.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/activity_post.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/activity_post.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/new_fragment_inbox.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/new_fragment_inbox.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/calendar_cell.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/calendar_cell.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/activity_sign_up.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/activity_document_detail.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/activity_document_detail.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/activity_accountant_profile.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/activity_accountant_profile.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/new_activity_chat.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/new_activity_chat.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/conversation_list_item.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/conversation_list_item.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/comment_list_item.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/comment_list_item.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/new_fragment_archive.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/new_fragment_archive.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/new_item_user.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/new_item_user.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/fragment_new_activity_chat.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/fragment_new_activity_chat.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/fragment_create_message.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/fragment_create_message.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/event_cell.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/event_cell.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/activity_search_forum.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/activity_search_forum.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/activity_loading_screen.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/activity_loading_screen.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/fragment_week_view.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/fragment_week_view.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/activity_budget.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/activity_budget.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/forum_list_item.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/forum_list_item.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/accountant_rating_list_item.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/accountant_rating_list_item.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/activity_guide.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/activity_guide.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/activity_document_list.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/activity_document_list.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/activity_sign_in.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/new_item_chat_message.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/new_item_chat_message.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/fragment_calendar.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/fragment_calendar.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/activity_accountant_help.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/activity_accountant_help.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/activity_profile.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/fragment_forum.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/fragment_forum.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/user_list_item.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/user_list_item.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/message_list_item.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/message_list_item.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/item_document.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/item_document.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/fragment_event.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/fragment_event.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/activity_forgot_password.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/new_fragment_trash.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/new_fragment_trash.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/activity_create_message.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/activity_create_message.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/fragment_loading_screen.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/fragment_loading_screen.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/fragment_post.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/fragment_post.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/expense_item.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/expense_item.xml"
+    },
+    {
+        "merged": "com.mab.buwisbuddyph.app-mergeDebugResources-73:/layout/activity_tax_calculator.xml",
+        "source": "com.mab.buwisbuddyph.app-main-76:/layout/activity_tax_calculator.xml"
+    }
+]
