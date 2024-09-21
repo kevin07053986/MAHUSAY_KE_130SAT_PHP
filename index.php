@@ -7,9 +7,11 @@ include 'Database.php';
 // include 'router.php';
 
 //connect to our MySQL database.
+$config = include('config.php');
 
-$db = new Database();
-$posts = $db->query("select * from posts")->fetchAll(PDO::FETCH_ASSOC);
+$db = new Database($config['database']);
+
+$posts = $db->query("select * from posts")->fetchAll();
 
 dd($posts);
 
