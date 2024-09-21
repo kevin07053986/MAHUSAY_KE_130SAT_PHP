@@ -2,7 +2,41 @@
 
 include 'functions.php';
 
-include 'router.php';
+// include 'router.php';
+
+//connect to our MySQL database.
+
+$dsn = "mysql:host=localhost;port=3306;dbname=myapp;user=root;password=imdbsys31;charset=utf8mb4";
+
+$pdo = new PDO($dsn);
+
+$statement = $pdo->prepare("select * from posts");
+
+$statement->execute();
+
+$posts = $statement->fetchAll();
+
+dd($posts);
+
+
+
+// class Person 
+// {
+//     public $name;
+//     public $age;
+
+//     public function breathe()
+//     {
+//         echo $this->name . ' is breathing!';
+//     }
+// }
+
+// $person = new Person ();
+
+// $person->name = 'John Doe';
+// $person->age = 25;
+
+// $person->breathe();
 
 
 
@@ -25,3 +59,28 @@ include 'router.php';
     include 'controllers/mission.php';
 
 }  */
+
+// Create a prepared statement to fetch the post that has an id of 1. Then, experiment with calling fetch() instead of fetchAll(). How is the output different?
+
+/* <?php
+
+include 'functions.php';
+
+// include 'router.php';
+
+//connect to our MySQL database.
+
+$dsn = "mysql:host=localhost;port=3306;dbname=myapp;user=root;password=imdbsys31;charset=utf8mb4";
+
+$pdo = new PDO($dsn);
+
+$statement = $pdo->prepare("select * from posts WHERE id = :id" );
+
+$statement->bindValue(':id', 1, PDO::PARAM_INT);
+
+$statement->execute();
+
+$posts = $statement->fetch(PDO::FETCH_ASSOC);
+
+echo "Using fetch():\n";
+dd($posts); */
