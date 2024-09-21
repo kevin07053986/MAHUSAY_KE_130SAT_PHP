@@ -11,7 +11,12 @@ $config = include('config.php');
 
 $db = new Database($config['database']);
 
-$posts = $db->query("select * from posts")->fetchAll();
+$id = $_GET['id'];
+$query = "select * from posts where id = ?";
+
+
+
+$posts = $db->query($query, [$id])->fetch();
 
 dd($posts);
 
