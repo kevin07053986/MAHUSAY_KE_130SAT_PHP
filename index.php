@@ -2,21 +2,20 @@
 
 include 'functions.php';
 
+include 'Database.php';
+
 // include 'router.php';
 
 //connect to our MySQL database.
 
-$dsn = "mysql:host=localhost;port=3306;dbname=myapp;user=root;password=imdbsys31;charset=utf8mb4";
-
-$pdo = new PDO($dsn);
-
-$statement = $pdo->prepare("select * from posts");
-
-$statement->execute();
-
-$posts = $statement->fetchAll();
+$db = new Database();
+$posts = $db->query("select * from posts")->fetchAll(PDO::FETCH_ASSOC);
 
 dd($posts);
+
+// foreach ($posts as $post) {
+//     echo "<li>" . $post['title'] . "</li>";
+// }
 
 
 
