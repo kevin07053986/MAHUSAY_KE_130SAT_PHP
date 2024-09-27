@@ -4,21 +4,19 @@ include 'functions.php';
 
 include 'Database.php';
 
-// include 'router.php';
+include 'router.php';
 
 //connect to our MySQL database.
-$config = include('config.php');
 
-$db = new Database($config['database']);
 
-$id = $_GET['id'];
-$query = "select * from posts where id = ?";
+// $id = $_GET['id'];
+// $query = "select * from posts where id = ?";
 
 
 
-$posts = $db->query($query, [$id])->fetch();
+// $posts = $db->query($query, [$id])->fetch();
 
-dd($posts);
+// dd($posts);
 
 // foreach ($posts as $post) {
 //     echo "<li>" . $post['title'] . "</li>";
