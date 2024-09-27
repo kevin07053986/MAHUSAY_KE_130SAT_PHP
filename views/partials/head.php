@@ -5,7 +5,7 @@
     <title>Demo</title>
 </head>
 
-<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.tailwindcss.com?plugins=forms"></script>
 
 <body class="h-full">     
 
