@@ -1,7 +1,6 @@
 <?php
 
 use Core\App;
-use Core\Authenticator;
 use Core\Database;
 use Core\Validator;
 
@@ -33,12 +32,14 @@ if ($user) {
     header('location: /');
     exit();
 } else {
-    $user = $db->query('INSERT INTO users(email, password) VALUES(:email, :password)', [
+    $db->query('INSERT INTO users(email, password) VALUES(:email, :password)', [
         'email' => $email,
-        'password' => password_hash($password, PASSWORD_BCRYPT)
+        'password' => $password // NEVER store database passwords in clear text. We'll fix this in the login form episode. :)
     ]);
 
-    (new Authenticator)->login(['email' => $email]);
+    $_SESSION['user'] = [
+        'email' => $email
+    ];
 
     header('location: /');
     exit();
